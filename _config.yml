@@ -1,0 +1,21 @@
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title
+title: ""
+date: Jun 5-7
+year: 2019
+tickets: false
+tickets-eb: //eventbrite.com/tickets-external?eid=35320045206&ref=etckt
+tickets-eb-link: http://kerning-2018.eventbrite.com
+tickets-eb-height: 600px
+speakers: false
+talks: false
+workshops: false
+schedule: false
+cfs: true
+rdiscount:
+  extensions: [smart]
+plugins:
+  - jekyll-sitemap
+kramdown:
+  input: GFM

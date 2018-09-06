@@ -1,0 +1,40 @@
+- name: VecchiaStamperia
+  title: "Playing with a (Heidelberg) Windmill a Damiano Bandini's workshop"
+  image: /img/2017/ws/damiano.png
+  twitter: vecchiastamperia
+  duration: 1 day
+  when: 7th of June 2017
+  where: "The workshop will take place at: La vecchia stamperia<br/>Via Giulio Castellani 25<br/>Faenza (RA)"
+  map: https://www.google.com/maps/place/La+Vecchia+Stamperia+di+Damiano+Bandini/@44.284726,11.87984,16z/
+  anchor: stamperia
+  url: ws-letterpress.html
+- name: Ewan Clayton
+  title: "DEVELOPING NEW STYLES OF CALLIGRAPHIC MOVEMENT with Ewan Clayton"
+  image: /img/2018/ws/ewan.png
+  twitter: ewanclayton1
+  duration: 2 days
+  when: from 6th to 7th of June 2018
+  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
+  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA
+  anchor: ewan
+  url: ws-calligraphy.html
+- name: "Bruno Maag & Richard Bailey"
+  title: "STRAIGHTS AND ROUNDS with Richard Bailey and Bruno Maag"
+  image: /img/2018/ws/bruno-richard.png
+  twitter: bruno_maag
+  duration: 2 days
+  when: from 6th to 7th of June 2018
+  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
+  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA
+  anchor: daltonmaag
+  url: ws-fontchoosing.html
+- name: Rainer Erich Scheichelbauer, Laurence Penney & Georg Seifert
+  title: "CREATE YOUR OWN VARIABLE FONT with Laurence Penney (Axis Praxis), Rainer Scheichelbauer and Georg Seifert"
+  image: /img/2018/ws/variable-trio.png
+  twitter: mekkablue ‏
+  duration: 1 day
+  when: 7th of June 2018
+  where: "The workshop will take place at: Complesso dei Salesiani<br>Via San Giovanni Bosco n. 1<br/>Faenza (RA)"
+  map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
+  anchor: glyphs
+  url: ws-variablefonts.html
