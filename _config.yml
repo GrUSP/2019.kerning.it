@@ -1,7 +1,7 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title
-title: ""
+title: "WOR(L)DS"
 date: Jun 5-7
 year: 2019
 tickets: true
