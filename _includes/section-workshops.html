@@ -1,7 +1,7 @@
 <div class="section" id="workshops">
 	<div class="wrapper">
 		<h2>Workshops</h2>
-		<h3>June 6-7, 2018</h3>
+		<h3>June 5-6, 2019</h3>
         |
         {% for workshop in site.data.workshops %}
             {% if workshop.title != false %}
@@ -9,10 +9,8 @@
             {% endif %}
         {% endfor %}
 		<div id="workshops-abstract">
-            {% include workshop/workshop-stamperia.html %}
-            {% include workshop/workshop-ewan.html %}
+            <!-- {% include workshop/workshop-stamperia.html %} -->
             {% include workshop/workshop-maag.html %}
-            {% include workshop/workshop-glyphs.html %}
 		</div>
 	</div>
 </div>

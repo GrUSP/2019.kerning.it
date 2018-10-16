@@ -10,7 +10,7 @@ tickets-eb-link: http://kerning-2019.eventbrite.com
 tickets-eb-height: 500px
 speakers: false
 talks: false
-workshops: false
+workshops: true
 schedule: false
 cfs: true
 rdiscount:

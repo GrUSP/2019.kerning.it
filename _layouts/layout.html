@@ -10,8 +10,8 @@
 	<meta name="author" content="Beatrice Bassi, Francesco Fullone, Enrico Stradaioli, Maurizio Piacenza">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="image_src" href="img/logo_ke.png" />
-	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="/img/logo_ke.png" />
+	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
 
 	<!--
 	/* @license
@@ -40,8 +40,9 @@
 
 	-->
 	<meta property="og:title" content="{% if page.ttl %} {{page.ttl}} {% else %} Kerning Conference {{site.year}} {% endif %}" />
-    <meta property="og:description" content="{% if page.descr %} {{page.descr}} {% else %} 8 Great speakers, 1 wonderful medieval town, 1 thousand typefaces. Buy your ticket now! {% endif %}" />
-	<meta property="og:image" content="http://{{site.year}}.kerning.it/img/ke_logo_og.jpg" />
+  <meta property="og:description" content="{% if page.descr %} {{page.descr}} {% else %} 8 Great speakers, 1 wonderful medieval town, 1 thousand typefaces. Buy your ticket now! {% endif %}" />
+	<meta property="og:image" content="//{{site.year}}.kerning.it/img/ke_logo_og.jpg" />
+	<meta property="og:url" content="//{{site.year}}.kerning.it/" />
 
 	<link rel="stylesheet" href="css/layout.css?ver=5">
 	<link rel='stylesheet' href='css/humane/libnotify.css'/>
@@ -49,7 +50,7 @@
 	<script src="js/prefixfree.js"></script>
 
     <!--script type="text/javascript" src="//use.typekit.net/zmj5iri.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script--> 
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script-->
 </head>
 <body class="{{ page.title }}">
 
