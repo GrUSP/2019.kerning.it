@@ -1,72 +1,27 @@
-- name: Amélie Bonet
+- name: Sarah HYNDMAN
   hour:
-  image: img/2018/amelie.png
-  twitter: ameliebonet
-  bio: "Amélie Bonet is a type designer and font engineer, based in Berlin, Germany. She developed a passion for type design with a focus on Indic scripts, during her years in Reading and London. Amélie has worked on projects involving various writing systems, such as Bengali, Cyrillic, Devanagari, Georgian, Greek, Tamil. Her design, Nokia Pure Bengali was awarded at the Granshan competition in 2014. In late summer 2015, Amélie joined the Monotype Font Engineering team."
-  works: You can see her latest works on <a href="http://ameliebonet.com/">her website</a> and follow her on <a href="https://twitter.com/ameliebonet/">twitter</a>.
-  title: Extension, Expansion, Variation
-  abstract: "The procedures involved in developing and producing a typeface are often diverse. The design stage is usually what first comes to mind, however, many other steps are possible. A typeface design may need to be adapted to a specific environment, to be extended with unique features, to be expanded with additional glyphs or even entire writing systems. The most recent technological development in the the typographic industry adds a further option, namely that of variability. Amélie Bonet will present the different assignments that constitute her daily practice. "
+  image: img/2019/sarah.png
+  twitter: TypeTasting
+  bio: "Sarah Hyndman is a British graphic designer, writer and public speaker. She asks lots of questions, has become an accidental specialist in multi-sensory typography and known for her interest in the psychology of type. She is the founder of the innovative Type Tasting studio; driven by her passion for changing the way we think and talk about typography. Sarah is also known for her thought-provoking and highly entertaining typography workshops, events and books including Why Fonts Matter and the type dating card game What's Your Type?"
+  works: You can see her latest works on <a href="http://sarahhyndman.com/">her website</a> and follow her on <a href="https://twitter.com/TypeTasting/">twitter</a>.
+  title:
+  abstract:
   video:
-- name: Ewan Clayton
+- name: Laura MESEGUER
   hour:
-  image: img/2018/ewan.png
-  twitter: ewanclayton1
-  bio: "Ewan Clayton is a calligrapher and Professor in Design at the University of Sunderland, he is also a visiting calligraphy tutor on the type programmes at the University of Reading and Cooper Union in New York City. He is a core staff member at The Royal Drawing School in London. Lettering is in his blood. He grew up near the village of Ditchling in the UK, home to Edward Johnston and three generations of his family worked there in a guild of crafts people founded by Eric Gill. Ewan’s interest in the written word ranges widely. He worked for 12 years as a consultant to Xerox PARC, researching the future of writing in the workplace. His book on the history of writing with the Roman alphabet The Golden Thread was published in 2013 and has been translated into a number of languages, including Italian. His real love is articulating the role the entire body plays in writing whatever the medium; he is a qualified somatic coach and body-worker."
-  works: You can see his latest works on <a href="http://www.ewanclayton.co.uk/">his website</a> and follow him on <a href="https://twitter.com/ewanclayton1/">twitter</a>.
-  title: "An expanding Universe? The future of text and writing."
-  abstract: "With so much communication happening digitally today, all the institutions that support the order of the written word have been called into doubt. It seems time to ask a fundamental question, what is writing? How does it work? Has it as future?"
+  image: img/2019/laura.png
+  twitter: laurameseguer
+  bio: "Laura Meseguer is a freelance graphic and type designer from Barcelona. Her studio works for international and domestic clients but also in self-initiated projects. As a typographer and type designer, she is specialized in all sorts of projects involving custom lettering and type design, for branding and publishing design. Her design approach is to create unique solutions for every assignment, based on the concept, the content and the context, always in close collaboration with art directors and designers. She designs and produces typefaces which are distributed through her own digital type foundry Type-Ø-Tones, that is also a member of TypeNetwork. She is the author of TypoMag. Typography in Magazines, published by IndexBook, and co-author of the book “Cómo crear tipografías. Del boceto a la pantalla”, published by Tipo e, published in Spanish and translated into Polish, Portuguese, English and soon in Chinese. She is a board member of the ATypI since 2017. She also teaches typedesign and typography in different schools. Laura’s work has been featured in several publications and exhibitions such as the Graphic Design–Now in Production in 2011-2012. She also holds awards from the ADG-FAD (The Art Directors & Graphic Designers Association, Spain), and TDCs for her typefaces Rumba Lalola and Qandus."
+  works: You can see his latest works on <a href="http://laurameseguer.com">his website</a> and follow her on <a href="https://twitter.com/laurameseguer/">twitter</a>.
+  title:
+  abstract:
   video:
-- name: David Jonathan Ross
+- name: tba
   hour:
-  image: img/2018/david.png
-  twitter: djrrb
-  bio: "David Jonathan Ross draws letters of all shapes and sizes for custom and retail typeface designs. A native of Los Angeles, He began drawing typefaces at Hampshire College and joined The Font Bureau in 2007 where he honed his bézier-wrangling skills. Now he publishes visually imaginative and technically advanced designs at his own foundry, <a href='https://djr.com/'>DJR</a> , as well as working on projects with Type Network and developing display faces for his Font of the Month Club . You’ll find him in Western Massachusetts with his partner Emily and their two dogs, Sophie and Lily."
-  works: You can see his latest works on <a href="https://djr.com//">his website</a> and follow him on <a href="https://twitter.com/djrrb/">twitter</a>.
-  title: "Extra! Extra!"
-  abstract: "Display typography is governed by three factors: the size of the available space, the length of the text, and the dimensions of the typeface. When the space and text are fixed, designers can look to type that has been pushed to the extremes of weight and width in order to display their words at maximum size and with maximum impact. This presentation examines what happens to typefaces at these extremes, when the rules of letter-drawing begin to break down. I will show some historical examples, but will focus on exemplary contemporary designs with extra bold, extra condensed, and extra wide variants. I will also discuss the design process of my typeface Fit, designed expressly to fill as much space as possible, and demonstrate the possibilities that OpenType variations offer for the next generation of extreme type designs."
-  video:
-- name: Riccardo Olocco
-  hour:
-  image: img/2018/riccardo.png
-  twitter: castfoundry
-  bio: "Riccardo is a type designer and member of CAST – Cooperativa Anonima Servizi Tipografici. Besides designing, he is doing a PhD at the University of Reading, faculty of Typography and Graphic Design. His research concerns 15th-century Venetian roman types and he combines use of bibliographical knowledge with analysis of letterforms. In 2014 he took an MA in Typeface Design at the University of Reading where he was introduced to so-called non-Latin types and fell in love with Bengali script. Prior to this, from the late 1990s, he freelanced as a type and graphic designer in Milan and elsewhere in northern Italy. From 2009–2013 he was a lecturer in typography at the University of Bolzano. He currently lives between Bolzano and London."
-  works: You can see his latest works on <a href="http://www.riccardolocco.com/">his website</a> and follow him on <a href="https://twitter.com/castfoundry/">twitter</a>.
-  title: "Micro analysis of printed marks of type: Nicolas Jenson’s roman."
-  abstract: "I will introduce the methods and the procedures that I have developed to enable correct identification of historical type, and I will apply them to the Jenson roman, the most highly praised roman of the early Renaissance. I am currently a PhD student at the University of Reading and my research is based on photographic enlargements of printed type and precise analysis of type details. The analysis follows a comparative approach and it is sustained by the overlaying of multiple images of letters that look similar. This practice clearly highlights differences and similarities among the letters."
-  video:
-- name: Alessia Nicotra
-  hour:
-  image: img/2018/alessia.png
-  twitter: AlessiucciaN
-  bio: "Alessia Nicotra is a Medical Doctor with PhD in Neurology and Neurophysiology. She currently works as a Neuroscience Medical Director in a Contract Research Organization. She is involved in research in type and emotion, and in the exploration of the human visual system and how we read at DaltonMaag."
-  works: You can see her latest tweets on <a href="https://twitter.com/AlessiucciaN/">twitter</a>.
-  title: "Brain wars: the infinity of everybody’s creativity."
-  abstract: "The world of type and graphic design is permeated by outdated myths. <br>One of the most deep-rooted misconceptions many designers still believe in is that the left side of the brain is all about being logical, rational and analytical, and the right side of the brain is all about being intuitive and creative. In relatively recent times, thanks to a better understanding of the brain anatomy, physiology and connectivity, many false beliefs like being a left-brained person or a right-brained person have become scientifically obsolete and superseded.<br>This brain wars presentation will take you on a brief journey of the infinity of brain connections and everybody’s creativity."
-  video:
-- name: Maximiliano Sproviero
-  hour:
-  image: img/2018/maximiliano.png
-  twitter: liantypes
-  bio: "Maximiliano first discovered his love for typography while studying graphic design at Universidad de Buenos Aires, Argentina. As an innocent font hobby turned to addiction, his type design career matured at an incredibly rapid rate, due much to his fascination with calligraphy. After graduating from college, he started a serie of trips to the US to study with the best calligraphers of the world. <br> In 2008 he founded his own foundry, Lián Types, mixing his interest in calligraphy with a growing skillfulness in digitizing the most challenging of curves. The foundry is now among the most successful ones specializing in script fonts and ornamented display type. He is also a teacher of gestural calligraphy, an excellent excuse, like he says, to take a rest from the digital media, gain inspiration and let the ink flow.<br> Many of his creations were awarded in the most prestigious typography competitions (such as SOTA Catalyst Awards, Type Directors Club, Communication Arts, Italian A’Design and Tipos Latinos), appeared in numerous respected Best of Year lists and were also published in several magazines and books of design."
-  works: You can see his latest works on <a href="http://www.sproviero-type.com/">his website</a> and follow him on <a href="https://twitter.com/liantypes/">twitter</a>.
-  title: Expressive Typography
-  abstract: "<em>Because he who loves Typography cannot ignore Calligraphy</em>. That is for Sproviero the first and most important commandment when designing type.<br>Through the years, technology has been responsible of making some decisions easier at the expense of distancing us from the beauty of the handmade. This, due to a popular misconception that hand-making is redundant in an information age. Sometimes we forget that digital devices are just tools that may or may not be used to create interesting pieces of design. <br>Sproviero’s fonts always have long processes which begin with the rescue of many tiny but essential characteristics of the calligraphic letter, pass through what he calls filters and equalizers to finally get to the digital product. Sproviero will delve into the idea that at the moment of making type there is a constant feedback between Calligraphy and Typography and will show examples of his creations to support his thoughts. You will learn about the background of every single decision in his letters and the techniques he uses to mantain the letter expressiveness in the analogue-to-digital migration."
-  video:
-- name: Matt Willey
-  hour:
-  image: img/2018/matt.png
-  twitter: MrMattWilley
-  bio: "Matt graduated from Central St Martins in 1997. Having gained valuable experience at a handful of small design companies he joined the internationally acclaimed studio Frost Design, later becoming Creative Director. In 2005 he set up Studio8 Design, in London, with business partner Zoë Bather. Matt co-founded Port magazine, in 2011 and Avaunt in 2014. He was named 'Designer of the Year' by Creative Review in 2014. He is currently the Art Director of The New York Times Magazine. He lives in Brooklyn with his wife and two children."
-  works: You can see his latest works on <a href="http://www.mattwilley.co.uk/">his website</a> and follow him on <a href="https://twitter.com/MrMattWilley/">twitter</a>.
-  title: "Magazines, mostly"
-  abstract: "Matt will talk about the role typography has played in some of the editorial projects he has worked on over the past 15 years, including the design and art direction of small independent titles such as Elephant and Plastique, magazines that he has co-founded and launched (Port and Avaunt), redesigns of more mainstream publications and his current position as art director at The New York Times magazine."
-  video:
-- name: Ferdinand Ulrich
-  hour:
-  image: img/2018/ferdinand.png
-  twitter: fpeulrich
-  bio: "Ferdinand Ulrich is a typographer and type historian. He researches, writes and lectures on various typographic affairs and regularly teaches at universities (UdK Berlin, Halle, Potsdam). His research has been published in Eye magazine, Print, Parenthesis and in the Journal of the Printing Historical Society. Ferdinand studied visual communication at UdK Berlin and at Carnegie Mellon University and currently pursues a PhD at the University of Reading, researching the discourse of early digital type design technologies. With Erik Spiekermann he designs publications and explores the possibilities of post-digital letterpress printing at p98a.berlin."
-  works: You can follow him on <a href="https://twitter.com/fpeulrich/">twitter</a>.
-  title: "Exploring post-digital letterpress"
-  abstract: "Post-digital printing combines the best of digital typography with the three-dimensional quality of letterpress printing. A report on how we got there, how we do it and what we do."
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
   video:
