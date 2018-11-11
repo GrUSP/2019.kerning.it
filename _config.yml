@@ -7,7 +7,7 @@ year: 2019
 tickets: true
 tickets-eb: //eventbrite.com/tickets-external?eid=49969466018&ref=etckt
 tickets-eb-link: http://kerning-2019.eventbrite.com
-tickets-eb-height: 500px
+tickets-eb-height: 650px
 speakers: true
 talks: false
 workshops: true
