@@ -47,6 +47,10 @@ minion:
     href: http://www.cssday.it
     img: /img/2018/s/cssday.svg
     title: CSSDay l'unica conferenza italiana dedicata ai CSS
+  - name: schriftlabor
+    href: https://schriftlabor.at/
+    img: /img/2018/s/schriftlabor.png
+    title: Truly Special Fonts for Your Company
 
 media:
   - name: slanted
