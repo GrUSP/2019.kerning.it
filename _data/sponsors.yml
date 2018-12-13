@@ -12,7 +12,7 @@ pica:
     href: http://www.daltonmaag.com
     img: /img/2018/s/daltonmaag.svg
     title: Behind Dalton Maag is an international team of 40 type designers, font developers, creative directors, software engineers and support staff, spanning 20 nationalities and speaking 12 languages.
-  
+
 bourgeois:
   - name: ilpiac
     href: http://www.ilpiac.com
@@ -29,10 +29,10 @@ bourgeois:
 
 
 brevier:
-#  - name: glyphs
-#    href:  https://glyphsapp.com/
-#    img: /img/2018/s/glyphs.png
-#    title:  Create Stunning Fonts on Your Mac
+  - name: glyphs
+    href:  https://glyphsapp.com/
+    img: /img/2018/s/glyphs.png
+    title:  Create Stunning Fonts on Your Mac
 #  - name: zetafonts
 #    href:  https://www.zetafonts.com
 #    img: /img/2018/s/zetafonts.svg
