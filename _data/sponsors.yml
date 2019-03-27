@@ -51,6 +51,10 @@ minion:
     href: https://schriftlabor.at/
     img: /img/2018/s/schriftlabor.png
     title: Truly Special Fonts for Your Company
+  - name: sundayburo
+    href: http://www.sundayburo.com/
+    img: /img/2019/s/sb.svg
+    title: Sunday Büro - A typographic family business since 2014.      
 
 media:
   - name: slanted
