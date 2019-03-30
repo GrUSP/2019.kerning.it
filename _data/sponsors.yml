@@ -54,7 +54,11 @@ minion:
   - name: sundayburo
     href: http://www.sundayburo.com/
     img: /img/2019/s/sb.svg
-    title: Sunday Büro - A typographic family business since 2014.      
+    title: Sunday Büro - A typographic family business since 2014.
+  - name: rosetta
+    href: https://www.rosettatype.com
+    img: /img/2019/s/rosetta.svg
+    title: Rosetta Type
 
 media:
   - name: slanted
@@ -65,3 +69,11 @@ media:
     href: https://fuoridalfunnel.it
     img: /img/2018/s/media-FuoridalFunnel.png
     title: Fuori Dal Funnel
+  - name: tdk
+    href: https://thedesignkids.org
+    img: /img/2019/s/TDK.svg
+    title: The Design Kids
+  - name: stickermule
+    href: https://www.stickermule.com/it/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=Kerning
+    img: /img/2019/s/stickermule.svg
+    title: StickerMule
