@@ -59,6 +59,10 @@ minion:
     href: https://www.rosettatype.com
     img: /img/2019/s/rosetta.svg
     title: Rosetta Type
+  - name: adobe
+    img: /img/2019/s/adobe.svg
+    title: Adobe Fonts
+    href: https://fonts.adobe.com
 
 media:
   - name: slanted
