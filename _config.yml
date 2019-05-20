@@ -11,7 +11,7 @@ tickets-eb-height: 950px
 speakers: true
 talks: true
 workshops: true
-schedule: false
+schedule: true
 cfs: true
 rdiscount:
   extensions: [smart]
