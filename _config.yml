@@ -4,7 +4,7 @@ permalink: /blog/:title
 title: "WOR(L)DS"
 date: Jun 5-7
 year: 2019
-tickets: true
+tickets: false
 tickets-eb: //eventbrite.com/tickets-external?eid=49969466018&ref=etckt
 tickets-eb-link: http://kerning-2019.eventbrite.com
 tickets-eb-height: 950px
