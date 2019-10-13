@@ -12,7 +12,7 @@ speakers: true
 talks: true
 workshops: true
 schedule: true
-cfs: true
+cfs: false
 rdiscount:
   extensions: [smart]
 plugins:
