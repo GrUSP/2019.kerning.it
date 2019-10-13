@@ -28,7 +28,9 @@
         <div class="title">{{ speaker.title }}</div>
         <div class="abstract">
 
-            {{ speaker.video }}
+            {% if speaker.video %}
+                <iframe src="https://player.vimeo.com/video/{{ speaker.video }}" width="500" height="281" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            {% endif %} 
 
             <p>{{ speaker.abstract }}</p>
         </div>
